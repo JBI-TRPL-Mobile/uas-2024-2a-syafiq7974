@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'presentation/state/auth_controller.dart';
-import 'presentation/state/message_controller.dart';
-import 'app_pages.dart';
 
 void main() {
   // Inisialisasi kontroler
